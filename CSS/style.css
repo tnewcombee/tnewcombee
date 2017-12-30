@@ -219,7 +219,8 @@ ul.navbar li {float: none; position:static;}
 .box{
 	float:none;
 	width:100%;
-	margin-top:10%;	
+	margin-top:8%;	
+	margin-bottom:2%;
 }
 div.box img{
 	width:40%;
