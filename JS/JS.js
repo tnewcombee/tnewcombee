@@ -5,11 +5,11 @@
 		
 	}
 
-
 var chosenImg;
 var img1Vis = false;
 var img2Vis = false;
 var img3Vis = false;
+
 
 function choose(ele){
 	chosenImg = ele.id;
